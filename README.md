@@ -1,56 +1,84 @@
 # AD-SDL Main repo
 
 
+https://ad-sdl.readthedocs.io/en/latest/
 
-## Todo
+## Overall Todo
+Need to be done and documented.
+- [ ]  How to work at RPL?
+  - [ ]  What is installed?
+  - [ ]  How to run the codes?
+  - [ ]  How to install
+- [ ]  Software insfrastructure
+  - [ ]  Documents
+  - [ ]  packages
+  - [ ]  Workflow
 
-* header
-  * links
-* footer
-  * logos
-  * etc
-* Overview section
-  * main project
-* Labs
-  * RPL
-  * BIO
-* Projects
-  * Automate Discovery of Peptides
-  * Modular Robotics for Science
-* Robots
-  * Liquid Handlers
-    * OT2
-      * Landing page
-      * Picture
-      * Description
-      * Company websites
-      * Control repo
-  * N9
-    * Landing page
-    * Picture
-    * Description
-    * Company websites
-    * Control repo
-  * Hudson Solo
-    * Landing page
-    * Picture
-    * Description
-    * Company websites
-    * Control repo
-  * Mobility 
-    * UR5
-      * Landing page
-      * Picture
-      * Description
-      * Company websites
-      * Control repo
-    * PF400
-      * Landing page
-      * Picture
-      * Description
-      * Company websites
-      * Control repo
-* Oportunities
-  * Masters
-  * Summer Students
-* Contact pages
+## RPL To do
+Where should those go?
+- [ ]  RPL map
+  - [ ]  Room
+  - [ ]  PC's
+  - [ ]  Network
+- [ ]  Bio map
+  - [ ]  Rooms
+  - [ ]  PC's
+  - [ ]  Network
+
+## Public Read-the-Docs Todo
+
+- [ ]  header
+  - [ ]  links
+- [ ]  footer
+  - [ ]  logos
+  - [ ]  etc
+- [ ]  Overview section
+  - [ ]  main project
+- [ ]  Overall Glossary
+- [ ]  Gallery
+  - [ ]  Photos
+  - [ ]  Videos
+- [ ]  News 
+- [ ]  Labs
+  - [ ]  RPL
+  - [ ]  BIO
+- [ ]  Projects
+  - [ ]  Automate Discovery of Peptides
+  - [ ]  Modular Robotics for Science
+- [ ]  Robots
+  - [ ]  Liquid Handlers
+    - [ ]  OT2
+      - [ ]  Landing page
+      - [ ]  Picture
+      - [ ]  Description
+      - [ ]  Company websites
+      - [ ]  Control repo
+    - [ ]  N9
+      - [ ]  Landing page
+      - [ ]  Picture
+      - [ ]  Description
+      - [ ]  Company websites
+      - [ ]  Control repo
+  - [ ]  Hudson Solo
+    - [ ]  Landing page
+    - [ ]  Picture
+    - [ ]  Description
+    - [ ]  Company websites
+    - [ ]  Control repo
+  - [ ]  Mobility 
+    - [ ]  UR5
+      - [ ]  Landing page
+      - [ ]  Picture
+      - [ ]  Description
+      - [ ]  Company websites
+      - [ ]  Control repo
+    - [ ]  PF400
+      - [ ]  Landing page
+      - [ ]  Picture
+      - [ ]  Description
+      - [ ]  Company websites
+      - [ ]  Control repo
+- [ ]  Oportunities
+  - [ ]  Masters
+  - [ ]  Summer Students
+- [ ]  Contact pages
