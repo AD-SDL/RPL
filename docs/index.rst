@@ -11,6 +11,8 @@ For a full explanation of the project please check the links below.
 
    projects/index
    robots/index
+   robots/ur5e
+   packages/index
    glossary
 
 Indices and tables
