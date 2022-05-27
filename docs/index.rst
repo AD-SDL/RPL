@@ -6,7 +6,7 @@ AD-SDL:
 For a full explanation of the project please check the links below.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    projects/index
@@ -14,6 +14,7 @@ For a full explanation of the project please check the links below.
    robots/ur5e
    packages/index
    glossary
+   contact
 
 Indices and tables
 ==================

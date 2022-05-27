@@ -47,8 +47,8 @@ Where should those go?
   - [ ]  Modular Robotics for Science
 - [ ]  Robots
   - [ ]  Liquid Handlers
-    - [ ]  OT2
-      - [ ]  Landing page
+    - [x]  OT2
+      - [x]  Landing page
       - [ ]  Picture
       - [ ]  Description
       - [ ]  Company websites
@@ -65,14 +65,14 @@ Where should those go?
     - [ ]  Description
     - [ ]  Company websites
     - [ ]  Control repo
-  - [ ]  Mobility 
-    - [ ]  UR5
+  - [x]  Mobility 
+    - [x]  UR5
       - [ ]  Landing page
       - [ ]  Picture
       - [ ]  Description
       - [ ]  Company websites
       - [ ]  Control repo
-    - [ ]  PF400
+    - [x]  PF400
       - [ ]  Landing page
       - [ ]  Picture
       - [ ]  Description
