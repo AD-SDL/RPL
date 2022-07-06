@@ -1,0 +1,29 @@
+---
+layout: default
+title: Self Driving Laboratory
+---
+
+<div class="jumbotron" style="background-image: url('images/home/facebook-image.jpg'); background-size: cover;">
+    <font color="white">
+        <p style="font-size:30px">Autonomous Discovery and Self Driving Science</p>
+    </font>
+    <p></p>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        <p>Self Driving laboratories is an effort by argonne....</p>
+    </div>
+</div>
+<hr>
+
+<h4>FEATURED PROJECTS</h4>
+<div class="row">
+    {% for project in site.projects %}
+    {% if project.featured %}
+    <div class="col-xs-4">
+        <a href="{{ project.url }}"><img class="img-responsive" src="images/projects/{{ project.image }}"></a>
+        <p>{{ project.teaser }}</p>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
