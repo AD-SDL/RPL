@@ -1,7 +1,10 @@
 # AD-SDL Main repo
 
 
-https://ad-sdl.readthedocs.io/en/latest/
+## Github Pages
+https://ad-sdl.github.io/AD-SDL/
+## Read-The-Docs
+https://ad-sdl.readthedocs.io/
 
 ## Overall Todo
 Need to be done and documented.
