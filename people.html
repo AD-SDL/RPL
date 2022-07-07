@@ -14,7 +14,7 @@ title: People
                 <div class="col-xs-12 col-sm-6 member">
                     <img src="images/people/{{ person.image }}">
                     <div class="member-info">
-                        <p><span class="name">{{ person.title }}</span><br>
+                        <p><span class="name">{{ person.name }}</span><br>
                         <span class="position">{{ person.position }}</span><br>
                         {{ person.department }}<br>
                         {{ person.institution }}</p>
@@ -24,7 +24,7 @@ title: People
                 <div class="col-xs-12 col-sm-6 member">
                     <img src="images/people/{{ person.image }}">
                     <div class="member-info">
-                        <p><span class="name">{{ person.title }}</span><br>
+                        <p><span class="name">{{ person.name }}</span><br>
                         <span class="position">{{ person.position }}</span><br>
                         {{ person.department }}<br>
                         {{ person.institution }}</p>
@@ -41,7 +41,7 @@ title: People
 
       <h1>Summer Students 2022</h1>
     
-      {% assign people = site.summer22 | sort: 'ranking' %}
+      {% assign people = site.summer22 | sort: 'name' %}
 
       {% for person in people %}
         {% assign loopindex = forloop.index | modulo: 2 %}
@@ -50,20 +50,16 @@ title: People
                 <div class="col-xs-12 col-sm-6 member">
                     <img src="images/summer22/people/{{ person.image }}">
                     <div class="member-info">
-                        <p><span class="name">{{ person.title }}</span><br>
-                        <span class="position">{{ person.position }}</span><br>
-                        {{ person.department }}<br>
-                        {{ person.institution }}</p>
+                        <p><span class="name">{{ person.name }}</span><br>
+                        <span class="position">{{ person.institution }}</span></p>
                     </div>
                 </div>
                 {% else %}
                 <div class="col-xs-12 col-sm-6 member">
                     <img src="images/summer22/people/{{ person.image }}">
                     <div class="member-info">
-                        <p><span class="name">{{ person.title }}</span><br>
-                        <span class="position">{{ person.position }}</span><br>
-                        {{ person.department }}<br>
-                        {{ person.institution }}</p>
+                        <p><span class="name">{{ person.name }}</span><br>
+                        <span class="position">{{ person.institution }}</span></p>
                     </div>
                 </div>
             </div>
@@ -78,7 +74,7 @@ title: People
       
       <h1>Summer Students 2021</h1>
     
-      {% assign people = site.summer21 | sort: 'ranking' %}
+      {% assign people = site.summer21 | sort: 'name' %}
 
       {% for person in people %}
         {% assign loopindex = forloop.index | modulo: 2 %}
@@ -87,20 +83,16 @@ title: People
                 <div class="col-xs-12 col-sm-6 member">
                     <img src="images/summer21/people/{{ person.image }}">
                     <div class="member-info">
-                        <p><span class="name">{{ person.title }}</span><br>
-                        <span class="position">{{ person.position }}</span><br>
-                        {{ person.department }}<br>
-                        {{ person.institution }}</p>
+                        <p><span class="name">{{ person.name }}</span><br>
+                        <span class="position">{{ person.institution }}</span></p>
                     </div>
                 </div>
                 {% else %}
                 <div class="col-xs-12 col-sm-6 member">
                     <img src="images/summer21/people/{{ person.image }}">
                     <div class="member-info">
-                        <p><span class="name">{{ person.title }}</span><br>
-                        <span class="position">{{ person.position }}</span><br>
-                        {{ person.department }}<br>
-                        {{ person.institution }}</p>
+                        <p><span class="name">{{ person.name }}</span><br>
+                        <span class="position">{{ person.institution }}</span></p>
                     </div>
                 </div>
             </div>
