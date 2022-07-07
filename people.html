@@ -38,17 +38,17 @@ title: People
       {% if val == 1 %} 
             </div>
       {% endif %}
-   
-      <h1>Summer Students 2021</h1>
+
+      <h1>Summer Students 2022</h1>
     
-      {% assign people = site.summer21 | sort: 'ranking' %}
+      {% assign people = site.summer22 | sort: 'ranking' %}
 
       {% for person in people %}
         {% assign loopindex = forloop.index | modulo: 2 %}
           {% if loopindex == 1 %}
           <div class="row">
                 <div class="col-xs-12 col-sm-6 member">
-                    <img src="_summer21/images/people/{{ person.image }}">
+                    <img src="images/summer22/people/{{ person.image }}">
                     <div class="member-info">
                         <p><span class="name">{{ person.title }}</span><br>
                         <span class="position">{{ person.position }}</span><br>
@@ -58,7 +58,7 @@ title: People
                 </div>
                 {% else %}
                 <div class="col-xs-12 col-sm-6 member">
-                    <img src="_summer21/images/people/{{ person.image }}">
+                    <img src="images/summer22/people/{{ person.image }}">
                     <div class="member-info">
                         <p><span class="name">{{ person.title }}</span><br>
                         <span class="position">{{ person.position }}</span><br>
@@ -75,16 +75,17 @@ title: People
             </div>
       {% endif %}
 
-      <h1>Summer Students 2022</h1>
+      
+      <h1>Summer Students 2021</h1>
     
-      {% assign people = site.summer22 | sort: 'ranking' %}
+      {% assign people = site.summer21 | sort: 'ranking' %}
 
       {% for person in people %}
         {% assign loopindex = forloop.index | modulo: 2 %}
           {% if loopindex == 1 %}
           <div class="row">
                 <div class="col-xs-12 col-sm-6 member">
-                    <img src="_summer22/images/people/{{ person.image }}">
+                    <img src="images/summer21/people/{{ person.image }}">
                     <div class="member-info">
                         <p><span class="name">{{ person.title }}</span><br>
                         <span class="position">{{ person.position }}</span><br>
@@ -94,7 +95,7 @@ title: People
                 </div>
                 {% else %}
                 <div class="col-xs-12 col-sm-6 member">
-                    <img src="_summer22/images/people/{{ person.image }}">
+                    <img src="images/summer21/people/{{ person.image }}">
                     <div class="member-info">
                         <p><span class="name">{{ person.title }}</span><br>
                         <span class="position">{{ person.position }}</span><br>

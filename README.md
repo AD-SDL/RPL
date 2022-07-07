@@ -2,7 +2,7 @@
 
 
 ## Github Pages
-https://ad-sdl.github.io/AD-SDL/
+https://ad-sdl.com
 ## Read-The-Docs
 https://ad-sdl.readthedocs.io/
 
