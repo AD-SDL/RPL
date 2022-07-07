@@ -32,7 +32,7 @@ body {
     line-height: 1.6em;
 }
 a {
-    color: #06C;
+    color: rgb(29, 92, 0);
 }
 a.btn {
     font-weight: 100;
@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     line-height: 1.3em;
 }
 h2, h3, h4 {
-    color: #708fca;
+    color: #76ca70;
 }
 h1, h2, h3, h4 {
     font-weight: 100;
@@ -60,7 +60,7 @@ h1 { font-size: 30px; }
 
 /* Wells */
 .go-well-light { background-color: #e8f1ff; border: none; }
-.go-well-medium { background-color: #468cc8; border: none; color: #fff; }
+.go-well-medium { background-color: #46c862; border: none; color: #fff; }
 .go-well-medium h2, .go-well-medium h3 { color: #cee1f1; }
 .go-well-medium a { color: #bbe2fa; }
 .go-well-white { background-color: #fff; border: solid 1px #b9e5ff; }
@@ -229,7 +229,7 @@ blockquote:before {
   Header
 ************************/
 header#masthead {
-    background-color: #27518F;
+    background-color: #278f3c;
 }
 header#masthead .navbar-brand {
     height: auto;
@@ -239,12 +239,12 @@ header#masthead #navbar .nav>li>a:focus,
 header#masthead #navbar .nav>li>a.active,
 header#masthead #navbar .navbar-toggle:hover,
 header#masthead #navbar .navbar-toggle:focus {
-    background-color: #468cc8;
+    background-color: #46c859;
     border-radius: 4px;
 }
 header#masthead #navbar .navbar-toggle {
-    border-color: #468CC8;
-    background-color: #186EB8;
+    border-color: #46c846;
+    background-color: #1bb818;
     margin-top: 15px;
 }
 header#masthead #navbar .navbar-toggle .icon-bar {
