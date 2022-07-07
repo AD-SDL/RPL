@@ -23,6 +23,12 @@ collections:
     output: true
   people:
     output: false
+  summer22:
+    output: false
+  summer21:
+    output: false
+
+
 # Build settings
 
 # Jekyll 3 now only supports Kramdown for Markdown

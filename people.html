@@ -39,82 +39,74 @@ title: People
             </div>
       {% endif %}
    
-
-    <h1>Alumni</h1>
-    <ul>
-	<li><a href="https://zhuozhaoli.github.io/">Zhuozhao Li</a>, Postdoc, Southern University of Science and Technology, China</li>
-    	<li><a href="https://rohankumar.io">Rohan Kumar</a>, M.S., Google</li>
-    	<li><a href="https://www.cdm.depaul.edu/Faculty-and-Staff/Pages/faculty-info.aspx?fid=1459">Roselyne Tchoua</a>, Ph.D., DePaul University, Chicago</li>
-	<li><a href="https://www.linkedin.com/in/tran-quan-pham-657019b3/">Quan Pham</a>, Ph.D., Allianz Australia </li>
-	<li><a href="https://www.linkedin.com/in/timgarmstrong/">Tim Armstrong</a>, Ph.D., DataBricks</li>
-	<li><a href="http://people.cs.uchicago.edu/~soner/">Atilla Soner Balkır</a>, Ph.D., Google</li>
-	<li><a href="https://zhaozhang.github.io">Zhao Zhang</a>, Ph.D., Texas Advanced Computer Center</li>
-	<li><a href="http://www.cs.iit.edu/~iraicu/">Ioan Raicu</a>, Ph.D., Illinois Institute of Technology</li>
-	<li><a href="http://people.cs.uchicago.edu/~borja">Borja Sotomayor</a>, Ph.D., University of Chicago</li> 
-	<li><a href='https://en.uestc.edu.cn/info/1074/2111.htm'>Yong Zhao</a>, Ph.D., UESTC China</li>
-	<li><a href='https://www.linkedin.com/in/catalin-dumitrescu-958a4a26/'>Catalin Dumitrescu</a>, Ph.D., FermiLab </li>
-	<li><a href="https://www.linkedin.com/in/gabriela-turcu-50705738/">Gabriela Turcu</a>, M.S., Amazon Web Services </li>
-        <li><a href="https://www.linkedin.com/in/chuangliu">Chuang Liu</a>, Ph.D., Twitter</li>
-	<li><a href="https://www.linkedin.com/in/lingyun-yang-7b6b213/">Lingyun Yang</a>, Ph.D., Microsoft</li>
-        <li><a href="http://www.cse.usf.edu/~anda/">Anda Iamnitchi</a>, Ph.D., University of South Florida</li>
-        <li><a href="http://www.aslag.net">Alain Roy</a>, Ph.D., VMware</li>
-	<li><a href="http://www.ece.ubc.ca/~matei/">Matei Ripeanu</a>, Ph.D., University of British Columbia </li>
-    </ul>
-
-
-
-    <h1>Former Research Assistants</h1>
-    Dozens of talented high school, undergraduate, and graduate students have contributed to 
-    research in our group. Information about part-time research positions is available <a href='join.html'>here</a>.
-    The following is a partial list of students who have worked with
-    us over the last few years (we're working to complete the list so please let us know if we missed your name). 
+      <h1>People</h1>
     
+      {% assign people = site.people | sort: 'ranking' %}
 
-    <ul>
-        <li>Matthew Chen (2022) </li>
-        <li>Erica Hsu (2022) </li>
-        <li>Joao Victor Rodrigues (2022)</li>
-        <li>Yuheng Zhao (2021)</li>
-        <li>Jamie Loring (2021) </li>
-        <li>Tala Germani (2021) </li>
-        <li>Zoa Katok </li>
-        <li>Nifesh Chakubaji </li>
-	<li>Ryan Wong (2021) </li>
-        <li>Nicole Avila </li>
-        <li>Nikita Kotsehub </li>
-        <li>Sohit Migliani </li>
-        <li>Aarthi Koripelli </li>
-        <li>April Wang </li>
-        <li>Avery Schwartz </li>
-        <li>Chimaobi Amanchukwu</li>
-        <li>Rohan Kumar </li>
-        <li>Yuanjian Liu (2019) </li>
-        <li>Katherine Leung </li>
-        <li>Meghan Kimball </li>
-        <li>Dmytro Onishchenko </li>
-        <li>Ashwin Aggarwal </li>
-        <li>Kathryn Koenig </li>
-        <li>Nikki Chakravarthy </li>
-        <li>Sydney Jenkins </li>
-        <li>Ruby Werman </li>
-        <li>Tobias Ginsburg </li>
-        <li>Chaofeng Wu </li>
-        <li>Emily Herron </li>
-        <li>Blue Keleher </li>
-        <li>Monica Lewis </li>
-        <li>Ben Glick </li>
-        <li>Theodore Ando </li>
-        <li>Samarth Madduru </li>
-        <li>Ethan Truelove </li>
-        <li>Justin Whitehouse </li>
-        <li>Ethan Truelove </li>
-        <li>Alex Foster </li>
-        <li>Ethan Truelove </li>
-        <li>Miles Grogger </li>
-        <li>Paul Beckman (2017)</li>
-        <li>Mike Fischer (2016)</li>
-        <li><a href="https://sites.google.com/cs.washington.edu/william-agnew/home">William Agnew</a> (2016)</li>
-<!--	<li>Yuhing, Alma (CDAC), Dmitri</li>-->
-<!--	<li>Kevin REU Guy, Ph.D., Google</li>-->
-    </ul>
+      {% for person in people %}
+        {% assign loopindex = forloop.index | modulo: 2 %}
+          {% if loopindex == 1 %}
+          <div class="row">
+                <div class="col-xs-12 col-sm-6 member">
+                    <img src="images/people/{{ person.image }}">
+                    <div class="member-info">
+                        <p><span class="name">{{ person.title }}</span><br>
+                        <span class="position">{{ person.position }}</span><br>
+                        {{ person.department }}<br>
+                        {{ person.institution }}</p>
+                    </div>
+                </div>
+                {% else %}
+                <div class="col-xs-12 col-sm-6 member">
+                    <img src="images/people/{{ person.image }}">
+                    <div class="member-info">
+                        <p><span class="name">{{ person.title }}</span><br>
+                        <span class="position">{{ person.position }}</span><br>
+                        {{ person.department }}<br>
+                        {{ person.institution }}</p>
+                    </div>
+                </div>
+            </div>
+          {% endif %}
+      {% endfor %}
+     
+      {% assign val = people.size | modulo: 2 %}
+      {% if val == 1 %} 
+            </div>
+      {% endif %}
 
+      <h1>People</h1>
+    
+      {% assign people = site.people | sort: 'ranking' %}
+
+      {% for person in people %}
+        {% assign loopindex = forloop.index | modulo: 2 %}
+          {% if loopindex == 1 %}
+          <div class="row">
+                <div class="col-xs-12 col-sm-6 member">
+                    <img src="images/people/{{ person.image }}">
+                    <div class="member-info">
+                        <p><span class="name">{{ person.title }}</span><br>
+                        <span class="position">{{ person.position }}</span><br>
+                        {{ person.department }}<br>
+                        {{ person.institution }}</p>
+                    </div>
+                </div>
+                {% else %}
+                <div class="col-xs-12 col-sm-6 member">
+                    <img src="images/people/{{ person.image }}">
+                    <div class="member-info">
+                        <p><span class="name">{{ person.title }}</span><br>
+                        <span class="position">{{ person.position }}</span><br>
+                        {{ person.department }}<br>
+                        {{ person.institution }}</p>
+                    </div>
+                </div>
+            </div>
+          {% endif %}
+      {% endfor %}
+     
+      {% assign val = people.size | modulo: 2 %}
+      {% if val == 1 %} 
+            </div>
+      {% endif %}
