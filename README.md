@@ -1,21 +1,33 @@
 # AD-SDL Main repo
 
 
-## Github Pages
+## Github Pages / Website
 https://ad-sdl.com
+
+## Website To-do's
+Need to be done and documented.
+- [ ]  Projects
+  - [ ]  Create blurb for BIO
+  - [ ]  Create blurb for RPL
+  - [ ]  Create blurb for Poly
+  - [ ]  Create blurb for Pete
+- [ ]  People
+  - [ ]  Add pages/photos
+- [ ]  Students pages
+  - [ ]  Fix listing
+- [ ]  Students 2021
+  - [ ]  Add pages/photos
+- [ ]  Students 2022
+  - [ ]  Add pages/photos
+- [ ]  Join Us
+  - [ ]  Add info on projects
+- [ ]  Style
+  - [ ] Fix colors
+  - [ ] Fix logos
+  - [ ] Footer -  Add NW
+
 ## Read-The-Docs
 https://ad-sdl.readthedocs.io/
-
-## Overall Todo
-Need to be done and documented.
-- [ ]  How to work at RPL?
-  - [ ]  What is installed?
-  - [ ]  How to run the codes?
-  - [ ]  How to install
-- [ ]  Software insfrastructure
-  - [ ]  Documents
-  - [ ]  packages
-  - [ ]  Workflow
 
 ## RPL To do
 Where should those go?
@@ -85,3 +97,14 @@ Where should those go?
   - [ ]  Masters
   - [ ]  Summer Students
 - [ ]  Contact pages
+
+## Overall Todo
+Need to be done and documented.
+- [ ]  How to work at RPL?
+  - [ ]  What is installed?
+  - [ ]  How to run the codes?
+  - [ ]  How to install
+- [ ]  Software insfrastructure
+  - [ ]  Documents
+  - [ ]  packages
+  - [ ]  Workflow
