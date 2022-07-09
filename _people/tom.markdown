@@ -1,8 +1,8 @@
 ---
-name: "Ian Foster"
-image: "ian.jpg"
-position: "Division Director"
+name: "Thomas  Brettin"
+image: "tom.jpg"
+position: "Strategic Program Manager"
 department: "Data Science and Learning"
 institution: "Argonne National Laboratory"
-ranking: 2
+ranking: 1
 ---
