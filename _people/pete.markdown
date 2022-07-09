@@ -1,6 +1,6 @@
 ---
-name: "Rafael Vescovi"
-image: "raf.jpg"
+name: "Pete Beckman"
+image: "peteb.jpg"
 position: "Computer Scientist"
 department: "NAISE"
 institution: "Argonne National Laboratory"
