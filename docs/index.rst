@@ -1,5 +1,5 @@
-Welcome to Advanced Discovery Self-Driving-Labs
-===============================================
+Welcome to Autonomous Discovery - Self-Driving-Labs
+===================================================
 
 AD-SDL: 
 
