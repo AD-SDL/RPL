@@ -1,9 +1,9 @@
 ---
 layout: project
 title:  "Rapid Prototyping Laboratory (RPL)"
-image: "rpl.png"  
+image: "rpl.jpg"  
 teaser: "A collaborative space for prototyping robotic instrument integrations before deployment into production."
-featured: false
+featured: true
 description: "The Rapid Prototyping Laboratory (RPL) provides a prototyping space for Argonne's Autonomous Discovery effort and serves as a hub for students and cross-lab collaboration." 
 
 
