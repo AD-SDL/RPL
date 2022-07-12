@@ -39,7 +39,7 @@ Azenta a4S Automated Plate Heat Sealer
 - link: https://www.azenta.com/automated-plate-sealer
 
 Azenta Plate Seal Remover 
-- model number: 
+- model number: TODO
 - https://www.azenta.com/products/automated-plate-seal-remover-formerly-xpeel
 
 Related GitHub repo: 
@@ -108,7 +108,7 @@ Mentors:
 
 Students: 
 </br>Sanjiv Parthasarathy
-</br>Eric Cordea
+</br>Eric Codrea
 </br>Kendrick Xie
 
 ### Pyhamilton Protocol Implementation on Hudson Robotic Platform
@@ -128,7 +128,7 @@ Mentors:
 Students: 
 </br>Gillian Camacho
 </br>Arleen Hidalgo
-</br>Halona Dontes 
+</br>Halona Dantes 
 
 ### Vision System Integrated Debugger
 
