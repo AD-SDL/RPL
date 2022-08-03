@@ -14,15 +14,15 @@ In a recent paper entitled Flexible open-source automation for robotic engineeri
 
 For this project, we will reproduce one of the biological experiments presented in this paper using the Python interface that has been developed for the Hudson SOLO liquid handler and Hudson SoftLinx integration system. We aim to prove that our completely open-source Python API can execute the same biological experiments as Pyhamilton with similar results. Students on this project will also contribute to the growing library of biological protocols written for our Hudson robotic experimentation platform.
 
-Link to Pyhamilton paper: 
-https://pubmed.ncbi.nlm.nih.gov/33764680/
+Link to Pyhamilton paper:
+<https://pubmed.ncbi.nlm.nih.gov/33764680/>
 
-Mentors: 
-</br>Casey Stone 
-</br>Abraham Stroka 
+Mentors:
+</br>Casey Stone
+</br>Abraham Stroka
 </br>Priyanka Setty
 
-Students: 
+Students:
 </br>Gillian Camacho
 </br>Arleen Hidalgo
-</br>Halona Dantes 
+</br>Halona Dantes
