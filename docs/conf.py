@@ -5,7 +5,7 @@ sys.path.insert(0, os.path.abspath('../'))
 # -- Project information -----------------------------------------------------
 
 project = 'AD-SDL'
-copyright = '2022, Argonne National Laboratory and the University of Chicago'
+copyright = '2023, Argonne National Laboratory and the University of Chicago'
 author = 'SDL Team'
 
 # The version info for the project you're documenting, acts as replacement for
