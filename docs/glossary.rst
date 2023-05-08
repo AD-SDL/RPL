@@ -11,6 +11,8 @@ Locations
 **ANL** Argonne National Laboratory
 
 **RPL**  ALCF building
+ANL building 240 which contains the RPL as well as the supercomputers Aurora and Polaris.
+
 
 **BIO** Bio building
 
@@ -18,12 +20,21 @@ Robots
 ------
 
 **UR5e** 
-
+`Link text <https://domain.invalid/>`
 **MiR**
+`Link text <https://domain.invalid/>`
+**PF400**
+The PF400 is the robot that sits central to the workcell in RPL, it is capable of moving wellplates between other instruments with micron level precision.
+`Link Module Link <https://github.com/AD-SDL/pf400_module>`
 
-**Hudson**
-
+**Sciclops**
+    
 Instruments
 -----------
 
 **OT2**
+**Sealer**
+**Peeler**
+**Hidex**
+
+
