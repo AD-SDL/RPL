@@ -13,10 +13,3 @@ For a full explanation of the project please check the links below.
    projects/index
    modules/index
    glossary
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
