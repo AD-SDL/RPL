@@ -9,11 +9,11 @@ For a full explanation of the project please check the links below.
    :maxdepth: 3
    :caption: Contents:
 
+   wei/overview
    projects/index
    robots/index
    packages/index
    glossary
-   contact
 
 Indices and tables
 ==================
