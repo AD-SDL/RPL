@@ -3,12 +3,11 @@ Projects
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :caption: Contents:
-
-   color_picker
-   PCR
-   growth_curve
+      color_picker
+      PCR
+      growth_curve
 
 RPL
 ---------
@@ -24,11 +23,3 @@ BIO
 ---------
 
 **Growth Curve** ??????
-
-.. toctree::
-   :caption: Contents:
-  :maxdepth: 2
-
-   color_picker
-   PCR
-   growth_curve

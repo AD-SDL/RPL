@@ -1,6 +1,6 @@
-=====================
+
 Creating Your First Workflow
-=====================
+============================
 
 Creating your first workflow is a simple process. 
 

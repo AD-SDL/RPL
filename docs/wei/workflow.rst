@@ -1,4 +1,5 @@
-## Workflow definition
+Workflow definition
+===================
 
 This is specified by a YAML file that defines the sequence of actions that will be executed in order on the hardware. E.g., see [this example](https://github.com/AD-SDL/rpl_workcell/blob/main/color_picker/workflows/cp_wf_mixcolor.yaml), shown also in the following, and comprising four sections:
 * **metadata**: Descriptive metadata for the workflow
@@ -17,14 +18,12 @@ metadata:
 workcell: /home/rpl/workspace/rpl_workcell/pcr_workcell/pcr_workcell.yaml
 
 modules:
-  - name: ot2_cp_gamma
-  - name: pf400
-  - name: camera
+  - name: example_module #name of the module to be used, will be defined in the workcell.yaml,
 
 flowdef:
-  - name: Move from Camera Module to OT2
-    module: pf400
-    command: transfer
+  - name: Step 1 #Name for human readability
+    module: example_module #Module to carry out the step
+    command: test #The specific command defined in the workcell module
     args:
       source: camera_module.positions.plate_station
       target: ot2_cp_gamma.positions.deck2
