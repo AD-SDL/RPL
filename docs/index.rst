@@ -11,8 +11,7 @@ For a full explanation of the project please check the links below.
 
    wei/overview
    projects/index
-   robots/index
-   packages/index
+   modules/index
    glossary
 
 Indices and tables
