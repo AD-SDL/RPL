@@ -28,7 +28,7 @@ The figure illustrates the three components for a simple "Color Picker" applicat
 .. toctree::
    :maxdepth: 2
 
-workcell
-workflow
-protocols
-experiment
+   workcell
+   workflow
+   protocols
+   experiment
