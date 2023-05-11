@@ -1,6 +1,15 @@
 Projects
 ===================================================
 
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+
+   color_picker
+   PCR
+   growth_curve
+
 RPL
 ---------
 

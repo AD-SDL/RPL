@@ -1,12 +1,12 @@
-Workflow Execution Interface
+WEI
 ============================
 
-WEI (Workflow Execution Interface) is a simple message parser
 
+WEI (Workflow Execution Interface) is a service for managing robotic workflows.
 We define conventional hardware and software configurations for robotic equipment and control software in order to simplify the assembly, modification, and scaling of experimental systems. The following figure shows our hardware conventions:
 
-* A **cart** is a cart with zero or more modules 
 * A **module** is an hardware component with a name, type, position, etc. (e.g., Pealer, Sealer, OT2 liquid handling robot, plate handler, plate mover, camera)
+* A **cart** is a cart with zero or more modules 
 * A **workcell**, as show on the left of the image, is formed from multiple (8 in the photo on the left) carts that typically hold multiple modules (12 in the example, as described below).
 * Multiple workcells and other components can be linked via mobile robots
 .. figure:: /images/projects/AD_Fig.jpg
@@ -22,12 +22,12 @@ The figure illustrates the three components for a simple "Color Picker" applicat
 
 .. figure:: /images/projects/ColorPicker.jpg
 
+
+
 .. toctree::
-   :caption: Contents:
-  :maxdepth: 2
+  :caption: Contents:
+  :maxdepth: 1
 
    installation
-   workcell
-   workflow
-   protocols
-   experiment
+   
+

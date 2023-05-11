@@ -10,6 +10,8 @@ Welcome to RPL's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   docs/index
+
 
 
 Indices and tables

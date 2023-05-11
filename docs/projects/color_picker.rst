@@ -76,7 +76,7 @@ NUC located on the left side of setup of NUCs with monitors, runs the main loop 
 :raw-html-m2r:`<img src="https://user-images.githubusercontent.com/73187720/232529076-011500a5-7d9b-4ebf-90dd-26b40df82093.png"  width="300" height="400">`
 
 Running Instructions:
-=====================
+------------
 
 Basic steps:
 ------------

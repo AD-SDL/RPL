@@ -10,22 +10,45 @@ Locations
 
 **ANL** Argonne National Laboratory
 
-**RPL**  ALCF building
-ANL building 240 which contains the RPL as well as the supercomputers Aurora and Polaris.
+**RPL**  Rapid Prototyping Lab in building 240 of ANL with workcell set up to run PCR and Color Picker Projects
 
-**BIO** Bio building
+**BIO** Bio building 446 of ANL with Bio Safety Level 2 facillity with workcell set up to run PCR with real DNA and bacteria growth curve experiments
 
 Robots
 ------
 
-**UR5e** 
-`Link text <https://domain.invalid/>`
-**MiR**
-`Link text <https://domain.invalid/>`
-**PF400**
-The PF400 is the robot that sits central to the workcell in RPL, it is capable of moving wellplates between other instruments with micron level precision.
-`Link Module Link <https://github.com/AD-SDL/pf400_module>`
 
+**PF400**: 
+The PF400 is the robot that sits central to the workcell in RPL, it is capable of moving wellplates between other instruments with micron level precision.
+
+Module Link: `PF400`_.
+
+.. _PF400: https://github.com/AD-SDL/pf400_module
+
+
+
+
+**PlateCrane**:  
+The Hudson PlateCrane Module is used to transport plates. There is one in RPL used for plate storage and one in bio used for instrument transfers. 
+
+Module Link: `PlateCrane`_.
+
+.. _PlateCrane: https://github.com/AD-SDL/platecrane_module
+
+
+**Ur5**
+The UR5 is the robot that sits central to the workcell in RPL, it is capable of moving wellplates between other instruments with micron level precision.
+
+Find the Module Link Here: `PF400`_.
+
+.. _PF400: https://github.com/AD-SDL/pf400_module
+
+**MiR base**
+The PF400 is the robot that sits central to the workcell in RPL, it is capable of moving wellplates between other instruments with micron level precision.
+
+Find the Module Link Here: `PF400`_.
+
+.. _PF400: https://github.com/AD-SDL/pf400_module
 **Sciclops**
     
 Instruments
