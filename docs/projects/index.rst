@@ -15,3 +15,10 @@ BIO
 
 **Growth Curve** ??????
 
+.. toctree::
+   :caption: Contents:
+  :maxdepth: 2
+
+   color_picker
+   PCR
+   growth_curve
