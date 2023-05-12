@@ -20,13 +20,8 @@ Robots
 
 **PF400**: 
 The PF400 is the robot that sits central to the workcell in RPL, it is capable of moving wellplates between other instruments with micron level precision.
-
 Module Link: `PF400`_.
-
 .. _PF400: https://github.com/AD-SDL/pf400_module
-
-
-
 
 **PlateCrane**:  
 The Hudson PlateCrane Module is used to transport plates. There is one in RPL used for plate storage and one in bio used for instrument transfers. 

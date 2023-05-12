@@ -1,7 +1,5 @@
-Welcome to Autonomous Discovery - Self-Driving-Labs
-===================================================
-
-AD-SDL: 
+Welcome to the Rapid Prototyping Laboratory
+===========================================
 
 For a full explanation of the project please check the links below.
 

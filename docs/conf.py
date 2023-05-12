@@ -4,9 +4,9 @@ sys.path.insert(0, os.path.abspath('../'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'AD-SDL'
+project = 'Rapid Prototyping Laboratory'
 copyright = '2023, Argonne National Laboratory and the University of Chicago'
-author = 'SDL Team'
+author = 'RPL Team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
