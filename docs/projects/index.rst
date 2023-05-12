@@ -6,6 +6,7 @@ Projects
    :maxdepth: 1
    :caption: Contents:
 
+   wei
    color_picker
    PCR
    growth_curve

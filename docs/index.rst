@@ -9,7 +9,7 @@ For a full explanation of the project please check the links below.
    :maxdepth: 2
    :caption: Contents:
 
-   wei/overview
    projects/index
+   workcells/index
    modules/index
    glossary
