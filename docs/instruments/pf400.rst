@@ -1,5 +1,21 @@
 PF400
 ===================
-The PF400 is a 6-axis sample handler, with servo gripper, that is ideal for benchtop applications. It includes safety features that disable motor power when a minimal, unexpected force is encountered, thus allowing the PF400 to operate without safety shields in benchtop applications. It is placed at the center of the modular setup to transfer plates in between different instruments in the RPL.
+Precise Automation is a company that specializes in the development and manufacturing of collaborative robots, also known as cobots. Cobots are designed to work safely alongside humans and assist them with various tasks. They typically feature advanced sensors and control systems to enable safe and efficient human-robot collaboration. The PF400 is a 6-axis sample handler, with servo gripper, that is ideal for benchtop applications. It includes safety features that disable motor power when a minimal, unexpected force is encountered, thus allowing the PF400 to operate without safety shields in benchtop applications. It is placed at the center of the modular setup to transfer plates in between different instruments in the RPL.
 
+Performance and Payload:
+- Maximum Acceleration: 0.2G with 500 gm payload (standard reach, extended reach slightly slower)
+- Maximum Speed: 500 mm/sec with 500 gm payload (standard reach, extended reach slightly slower)
+- Maximum Payload: 1kg including gripper, 0.5kg with typical 0.5kg gripper
+
+Range of Motion & Resolution:
+- J1 (Z) Axis: 400 mm standard, 750 mm, 1160 mm option available
+- J2 Axis: +/- 90 degrees
+- J3 Axis: +/- 167 degrees
+- J4/Theta Axis: +/- 970 degrees
+- Gripper: Standard servo gripper can grip Life Science plates in both portrait and landscape orientations. Software can control squeeze force (between approximately 0-23N for close force, 0-10N for open force) and open/close speed.
+- Maximum reach: Extended Reach Version: 731 mm
+
+Linear Rail:
+- Maximum Speed:
+- Dimensions: 2M travel version is 2.37m long x 0.23m deep x 0.12m high
 `Module Link <https://github.com/AD-SDL/pf400_module>`_
