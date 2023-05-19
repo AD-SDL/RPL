@@ -18,4 +18,11 @@ Range of Motion & Resolution:
 Linear Rail:
 - Maximum Speed:
 - Dimensions: 2M travel version is 2.37m long x 0.23m deep x 0.12m high
+
+Interfaces:
+- General Communications: RS-232 channel, 10/100 Mbps Ethernet port, E-stop input, all available on J1-Axis housing Facilities Panel at the robot base.
+- Digital I/O Channels: One optically isolated input available on J1-Axis housing Facilities Panel. Option available for an additional 12 optically isolated digital inputs and 8 optically isolated digital outputs on J1-Axis housing Facilities Panel. Two digital inputs can be optionally converted to analog inputs. Additional remote I/O available via Precise RIO modules or 3rd party MODBUS/TCP devices.
+- Operator Interface: Web based operator interface supports local or remote control via browser connected to embedded web server
+- Programming Interface: Three methods available: DIO MotionBlocks (PLC), embedded Guidance Programming Language (standalone, modeled after Visual Basic.Net), PC control using open source TCP/IP Command Server operated via Ethernet connection (TCP).
+
 `Module Link <https://github.com/AD-SDL/pf400_module>`_
