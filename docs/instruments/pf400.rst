@@ -8,12 +8,12 @@ Performance and Payload:
 * Maximum Payload: 1kg including gripper, 0.5kg with typical 0.5kg gripper
 
 Range of Motion & Resolution:
-* J1 (Z) Axis: 400 mm standard, 750 mm, 1160 mm option available
-* J2 Axis: +/- 90 degrees
-* J3 Axis: +/- 167 degrees
-* J4/Theta Axis: +/- 970 degrees
+* J1 (Z) Axis: 400 mm standard, 750 mm, 1160 mm option available.
+* J2 Axis: +/- 90 degrees.
+* J3 Axis: +/- 167 degrees.
+* J4/Theta Axis: +/- 970 degrees.
 * Gripper: Standard servo gripper can grip Life Science plates in both portrait and landscape orientations. Software can control squeeze force (between approximately 0-23N for close force, 0-10N for open force) and open/close speed.
-* Maximum reach: Extended Reach Version: 731 mm
+* Maximum reach: Extended Reach Version: 731 mm.
 
 Linear Rail:
 * Maximum Speed:
@@ -25,6 +25,7 @@ Interfaces:
 * Operator Interface: Web based operator interface supports local or remote control via browser connected to embedded web server
 * Programming Interface: Three methods available: DIO MotionBlocks (PLC), embedded Guidance Programming Language (standalone, modeled after Visual Basic.Net), PC control using open source TCP/IP Command Server operated via Ethernet connection (TCP).
 
-image:: https://github.com/AD-SDL/PF400_cobot/blob/main/resources/diagrams-figures/pf400-rviz.png
+.. image:: /images/robots/pf400.jpg
+
 
 `Module Link <https://github.com/AD-SDL/pf400_module>`_
