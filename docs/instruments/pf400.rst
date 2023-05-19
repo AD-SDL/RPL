@@ -30,6 +30,7 @@ Interfaces:
 - Programming Interface: Three methods available: DIO MotionBlocks (PLC), embedded Guidance Programming Language (standalone, modeled after Visual Basic.Net), PC control using open source TCP/IP Command Server operated via Ethernet connection (TCP).
 
 .. image:: /images/robots/pf400.png
+  :width: 400
 
 
 `Module Link <https://github.com/AD-SDL/pf400_module>`_
