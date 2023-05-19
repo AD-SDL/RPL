@@ -10,5 +10,5 @@ We work to prototype new technologies and workflows for further automating scien
 
    projects/index
    workcells/index
-   modules/index
+   instruments/index
    glossary
