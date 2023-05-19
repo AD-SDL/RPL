@@ -1,5 +1,5 @@
 PF400
 ===================
-The PF400 is a 6-axis sample handler, with servo gripper, that is ideal for benchtop applications. It is placed in the center of the modular setup to transfer plate in between different instruments in the RPL.
+The PF400 is a 6-axis sample handler, with servo gripper, that is ideal for benchtop applications. It includes safety features that disable motor power when a minimal, unexpected force is encountered, thus allowing the PF400 to operate without safety shields in benchtop applications. It is placed at the center of the modular setup to transfer plates in between different instruments in the RPL.
 
 `Module Link <https://github.com/AD-SDL/pf400_module>`_
