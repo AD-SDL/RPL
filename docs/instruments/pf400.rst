@@ -29,7 +29,7 @@ Interfaces:
 - Operator Interface: Web based operator interface supports local or remote control via browser connected to embedded web server
 - Programming Interface: Three methods available: DIO MotionBlocks (PLC), embedded Guidance Programming Language (standalone, modeled after Visual Basic.Net), PC control using open source TCP/IP Command Server operated via Ethernet connection (TCP).
 
-.. image:: images/robots/pf400.png
+.. image:: /images/robots/pf400.png
 
 
 `Module Link <https://github.com/AD-SDL/pf400_module>`_
