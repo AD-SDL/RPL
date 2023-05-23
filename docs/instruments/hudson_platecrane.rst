@@ -11,6 +11,7 @@ Here are some key features and characteristics of the Hudson PlateCrane robot:
 - Integration with other lab equipment: The PlateCrane robot can be integrated with other laboratory instruments and devices. It can work in conjunction with plate readers, liquid handlers, incubators, and other automated systems, enabling a seamless workflow in the lab.
 - Versatility: The PlateCrane is a versatile robot capable of performing various tasks, including plate replication, plate stamping, plate sealing, plate reformatting, and plate restacking. Its flexibility allows for efficient sample processing and high-throughput screening.
 - Precision and accuracy: The robot is designed to provide precise and accurate plate handling. It utilizes advanced robotics and positioning technology to ensure proper alignment and placement of plates, minimizing errors and contamination.
-- The Hudson PlateCrane offers researchers in life sciences, pharmaceuticals, and other scientific fields an efficient and reliable solution for automating plate handling tasks.
+
+The Hudson PlateCrane offers researchers in life sciences, pharmaceuticals, and other scientific fields an efficient and reliable solution for automating plate handling tasks.
 
 `Module Link <https://github.com/AD-SDL/platecrane_module>`_
