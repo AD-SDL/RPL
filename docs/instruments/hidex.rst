@@ -1,5 +1,5 @@
-Hudson Plate Crane
-===================
+Hidex Microplate Reader
+=======================
 
 The Hidex Sense Multi-Mode Microplate Reader is a laboratory instrument developed by Hidex, a company known for manufacturing high-performance detection systems for life science research and drug discovery. The Hidex Sense offers a versatile platform for analyzing various biological and chemical assays in microplates.
 
