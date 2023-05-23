@@ -4,11 +4,11 @@ Our Instruments
 .. toctree::
   :maxdepth: 2
 
-  azenta_peeler
+  a4s_sealer
   brooks_xpeel
   chemspeed
   hidex
-  hudson_plate_crane
+  hudson_platecrane
   n9
   OT2
   pf400
