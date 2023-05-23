@@ -5,6 +5,8 @@ A complex fluid refers to a material with a mixture of two or more phases that i
 Synchrotron coherent x- ray beamlines provide unique insight into the structure formation and dynamics evolution in complex fluid because of the laser-like beam quality from magnetic undulator sources and the high-penetration power of sub-nm x-rays. 
 To this date, all sample changes at coherent synchrotron x-ray scattering beamlines in the world are performed manually, with a rigid search process to assure the hutch is evacuated prior to commencing the experiment. 
 Although container-less liquid (e.g. acoustic levitation or pendant drop) can enable automated and high-throughput sample exchange, the oscillation of the liquid drop at μm-level could contaminate the coherent x-ray scattering results, which are acquired using micro-focused x-ray beam commensurate with the sample oscillation.
+
+
 In this work, we demonstrate that a pendant drop shielded from ambient air turbulence yields results quantitatively consistent with samples in generic liquid containers (e.g. thin-walled quartz capillaries), validating the use of pendant drop for synchrotron coherent x-ray scattering experiments. 
 The pendant drop can be aspirated by an electronic pipette and withdrawn into a pipette tip, and the electronic pipette can be mounted on a robotic arm to access waste sample pits and reservoirs of stock samples. 
 The robotic pendant drop features high precision and high repeatability in the preparation of liquid samples with a tailored composition profile. 
