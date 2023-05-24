@@ -4,7 +4,8 @@ Projects
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
-
+   
+   APS
    wei
    color_picker
    PCR

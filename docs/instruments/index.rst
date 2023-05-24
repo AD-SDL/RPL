@@ -5,6 +5,7 @@ Our Instruments
   :maxdepth: 2
 
   a4s_sealer
+  biometra
   brooks_xpeel
   chemspeed
   hidex
