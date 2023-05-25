@@ -24,5 +24,5 @@ RPL
 BIO
 ---------
 
-**Growth Curve** ??????
+**Growth Curve** A campaign to mix a treatment at 5 serial dilutions with bacterial cells to measure the effect of the treatment on cell growth.
 
