@@ -55,102 +55,83 @@ Instruments
 **Hidex**
 
 
-Gladier
--------
+**WEI**
 
-**Gladier** builds on a science services framework, in the form of Globus Auth, Transfer, Search, Groups, and Flows, plus funcX function-as-a-service. 
-These services provide a reliable, secure, and high-performance substrate to access and manage data and computing resources. Here we highlight
-several of these services and describe how they are used to create Gladier deployments.
+Workcell Execution Interface. Infrastructure for interpreting and running workflows on workcells. 
 
-Globus
-------
+**Workcell**
 
-**Globus**  provides a collection of data services built for science 
-including: Globus Auth, Transfer, Search, Groups, and Flows, and funcX to enable
-distributed function-as-a-service execution. 
-Globus Services are highly reliable, professionally operated cloud-hosted 
-services that support the work of over 150,000 researchers worldwide as 
-foundational capabilities for scientific applications and workflows; 
-using them greatly reduces the burden on local systems, administrators, 
-and programmers.
+Composition of one or more modules and the raw materials for running a workflow - a pedantic list of steps along with required resource in a workcell
 
-Globus Flows
-------------
-**Flows** addresses
-the problem of
-securely and reliably automating sequences of data
-management tasks that may span
-locations, storage systems, administrative domains,
-and timescales, and integrate both
-mechanical and human inputs.
-Client libraries deployed on Globus endpoints and other sources enable the
-detection
-of events and invocation of a flow.
-The Flows service manages execution
-of user-supplied
-automation flows either manually or as a result
-of data events, and the invocation of
-actions from those automation flows, including actions
-provided by Globus endpoints
-and services. The service is extensible via the definition of new events and
-actions to
-meet the needs of specific communities.
+**Workflow**
 
+A pedantic list of steps along with required resource in a workcell
 
-FuncX
------
-**funcX** is a function-as-a-service platform that 
-implements a federated compute substrate, 
-enabling computation to be 
-registered as Python functions and invocations to be dispatched to remote 
-computers for
-execution. The service provides a single point-of-contact, 
-supporting function registration, 
-sharing, and discovery as well as reliable and secure execution on connected 
-endpoints. The funcX endpoint software, built on Parsl, 
-allows functions to 
-be executed in containers and for resources to be dynamically provisioned on cloud and 
-cluster systems. 
-These funcX endpoints provide
-serverless capabilities whereby researchers fire-and-forget tasks that are dynamically 
-allocated across the supercomputer using an opportunistic backfill queue to utilize 
-spare capacity.
+**Step**
 
+An action on one module in a workflow consisting of instructions that the module can execute; the action is performed throughout the APIs that the module exposes
 
-Globus Queues and Triggers
---------------------------
-**Queues** provides a reliable, cloud-based mechanism to manage and store events.
-The Queues service allows users to provision a dedicated queue for their instrument.
-Clients can then raise events to the queue using HTTP POST requests where they will be
-maintained until a subscriber consumes them. This enables experimental facilities and instruments
-to raise events as data are created without requiring heavy-weight installations on the edge device.
+**Message**
 
-The **Triggers** service provides a cloud-based consumer of Queues events. Users can configure a Trigger to monitor a queue and initiate Flows as events are received.
-To create a trigger one defines:
+A uniformly formatted command sent to and interpretable by a module in order to complete a step
 
-- An event queue for the trigger to monitor
-- A condition for when the trigger will fire
-- An action to perform when the condition is met (e.g., a flow uuid)
-- A template to create an input JSON document for the action. This often includes default values.
+**Action**
 
-The combination of the **Queues** and **Triggers** services simplifies creating new Gladier deployments.
+Part of a step, 1 to 1 relation, a specific function preformed by a module
 
+**Protocol** 
 
-Globus Transfer
----------------
-**Transfer**  implements a location-agnostic data
-substrate that enables data to be
-accessed, shared, and moved among disparate storage
-systems, including at instruments,
-supercomputers, and on data services. Globus Transfer allows
-users and applications to modify data access permissions
-on remote storage systems and
-to move data reliably and securely between systems via a single API.
+A list of instructions interpretable by one instrument that will run all together as one action in a step
 
+**Module** 
 
-Globus Auth
------------
-**Auth** Auth allows for users to delegate permissions for clients to access services in the Gladier
-architecture, and for services to access other services on their behalf as well.
-For example, it allows Globus Flows to manage Globus Transfers and to execute
-analyses via funcX on systems accessible only to the user.
+One or more instruments/robots, with associated clients and drivers, compute power, and cameras/sensors that exposes standardizes restricted APIs. 
+
+**Instrument** 
+
+A piece of hardware capable of executing actions or taking measurements
+
+**Portal**
+
+Globus portal, a website that can display data and archives experiment runs 
+
+**Driver**
+
+A software system that exposes the functionality of an instrument to the client
+
+**Client**
+
+API that standardizes an instruments communications and exposes them for use in a step
+
+Experiment vs experiment (todo)
+
+(capital experiment) 
+**Experiment**
+
+The code version of a lowercase e experiment
+
+A script to call one or more workflow and manage the data they generate
+
+(lowercase experiment) - a later problem
+
+**Executor**
+
+(WEI see above) generic interface for sending and receiving the messages associated with a step
+
+(these are the options so far)
+
+ROS 
+
+TCP
+
+REST
+
++other in future, maybe 
+
+**Protopiler** 
+
+Interprets high level protocol definition into machine executable code, currently part of OT-2 driver
+**Resources**
+
+disposable items required for in instrument to function properly. Example tape roll for peeler, 96-well plate for everything (labware), OT-2 pipette and tip boxes, etc
+
