@@ -7,6 +7,7 @@ Our Instruments
   a4s_sealer
   biometra
   brooks_xpeel
+  centrifuge
   chemspeed
   hidex
   hudson_platecrane
