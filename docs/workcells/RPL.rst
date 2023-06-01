@@ -2,9 +2,10 @@ RPL
 ====
 
 
-The RPL (Rapid Prototyping Laboratory) is a space dedictated to testing new automation technologies and processes. It is located in building 240 of Argonne National Lab campus. 
+The RPL (Rapid Prototyping Laboratory) is a space dedicated to testing new automation technologies and processes. It is located in building 240 of Argonne National Lab campus. 
 
-
+.. image:: https://github.com/AD-SDL/RPL/blob/main/images/workcells/updated_RPL.jpg
+  :width: 400
 
    
 
