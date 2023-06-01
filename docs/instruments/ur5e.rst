@@ -12,3 +12,7 @@ Some key features and capabilities of the UR5e robot include:
 - Force/Torque Sensing: The UR5e is equipped with built-in force/torque sensors in its joints, providing feedback and enabling it to interact sensitively with its environment. This feature allows the robot to perform tasks that require force control, precision, and adaptability.
 - Versatility: The UR5e is known for its versatility, making it suitable for a broad range of applications. It can be used for tasks such as pick and place operations, assembly, machine tending, packaging, testing, and more.
 - Integration Capabilities: Universal Robots provides a wide range of accessories, grippers, and software options to enhance the capabilities and compatibility of the UR5e. It can also be integrated with external devices and sensors to create custom automation solutions.
+
+
+.. image:: /images/robots/ur5.jpeg
+  :width: 400

@@ -11,3 +11,7 @@ The main advantages of automated thermocycler robots include:
 - Precision and accuracy: Automated systems offer precise temperature control and accurate sample handling, minimizing human error and variability.
 - Workflow integration: They can be integrated into existing laboratory workflows, enabling seamless integration with other automated processes or downstream applications.
 - Time and labor savings: By automating repetitive tasks, automated thermocycler robots free up researchers' time and reduce the need for manual sample handling, allowing them to focus on other critical aspects of their work.
+
+
+.. image:: /images/robots/biometra.jpeg
+  :width: 400

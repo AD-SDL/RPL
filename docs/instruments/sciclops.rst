@@ -13,3 +13,7 @@ Key features and capabilities of the SciClops Microplate Handler may include:
 - Integration with Other Instruments: The robot can be integrated with various laboratory instruments, such as plate readers, liquid handling systems, and incubators. This integration enables automated workflows, where the SciClops Microplate Handler coordinates the movement of plates between different instruments, optimizing efficiency and reducing manual intervention.
 - Software Control and Programming: The system is typically controlled through software that provides a user-friendly interface for programming and executing tasks. Users can define specific protocols, plate maps, and workflows, allowing the robot to perform complex operations autonomously.
 - Safety Features: The SciClops Microplate Handler often incorporates safety features such as collision detection, sensor-based plate detection, and emergency stop buttons to ensure the protection of the instrument, samples, and personnel.
+
+
+.. image:: /images/robots/sciclops.jpeg
+  :width: 400

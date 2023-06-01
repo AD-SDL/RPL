@@ -13,5 +13,9 @@ Here are some key features and characteristics of the Opentrons OT-2 lab robot:
 - Applications: The OT-2 is commonly used in various life science research areas, including genomics, proteomics, drug discovery, and synthetic biology. It can perform tasks such as PCR setup, serial dilutions, plate replication, and sample normalization.
 
 
+.. image:: /images/robots/ot2.jpeg
+  :width: 400
+
+
 
 `Module Link <https://github.com/AD-SDL/ot2_module>`_
