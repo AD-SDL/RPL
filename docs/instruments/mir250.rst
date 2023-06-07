@@ -12,3 +12,6 @@ Key features and capabilities of the MiR250 robot may include:
 - User-Friendly Interface: The robot is typically operated through an intuitive user interface, which can be accessed via a computer or a mobile device. Users can program tasks, set up missions, and monitor the status of the robot using the interface.
 - Fleet Management Software: MiR offers a fleet management software system that allows users to control and coordinate multiple robots, including the MiR250, simultaneously. The software enables task scheduling, mapping, and real-time monitoring of the robots' activities.
 - Integration Capabilities: The MiR250 is designed to integrate with existing infrastructure and systems in industrial environments. It can interface with conveyors, elevators, and other equipment, making it adaptable to a variety of material handling workflows.
+
+`Module Link <https://github.com/AD-SDL/henry_module.git>`_
+`Website Link <https://www.mobile-industrial-robots.com/solutions/robots/mir250/>`_
