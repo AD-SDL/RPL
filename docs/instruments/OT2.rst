@@ -19,3 +19,4 @@ Here are some key features and characteristics of the Opentrons OT-2 lab robot:
 
 
 `Module Link <https://github.com/AD-SDL/ot2_module>`_
+`Website Link <https://opentrons.com/products/robots/ot-2/>`_
