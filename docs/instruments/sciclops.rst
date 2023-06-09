@@ -17,3 +17,6 @@ Key features and capabilities of the SciClops Microplate Handler may include:
 
 .. image:: /images/robots/sciclops.jpeg
   :width: 400
+
+`Module Link <https://github.com/AD-SDL/platecrane_module.git>`_
+`Website Link <https://hudsonrobotics.com/microplate-handling-2/platecrane-sciclops-3/>`_
