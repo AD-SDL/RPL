@@ -18,3 +18,6 @@ The Brooks/Nexus Biosystems XPeel Microplate De-Sealer provides a convenient and
 
 .. image:: /images/robots/peeler.jpeg
   :width: 400
+
+`Module Link <https://github.com/AD-SDL/brooks_xpeel_module.git>`_
+`Website Link <https://www.azenta.com/products/automated-plate-seal-remover-formerly-xpeel>`_
