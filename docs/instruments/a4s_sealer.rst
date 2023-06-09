@@ -15,3 +15,6 @@ asfjnasflna
 
 .. image:: /images/robots/sealer.jpeg
   :width: 400
+
+`Module Link <https://github.com/AD-SDL/a4s_sealer_module.git>`_
+`Website Link <https://www.azenta.com/products/automated-roll-heat-sealer-formerly-a4s>`_
