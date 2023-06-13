@@ -13,7 +13,7 @@ The A4S Automated Plate Heat Sealer is a laboratory instrument used for sealing 
 Automated plate heat sealers like the a4S provide a reliable and efficient solution for sealing microplates in various laboratory applications. By preventing sample evaporation and contamination, these sealers help maintain the integrity of samples and ensure the accuracy and reproducibility of experimental results.
 asfjnasflna
 
-.. image:: /images/robots/sealer.jpeg
+.. image:: https://github.com/AD-SDL/RPL/blob/main/images/robots/sealer.jpeg
   :width: 400
 
 `Module Link <https://github.com/AD-SDL/a4s_sealer_module.git>`_

@@ -16,7 +16,7 @@ Here are some key features and characteristics of the Brooks/Nexus Biosystems XP
 The Brooks/Nexus Biosystems XPeel Microplate De-Sealer provides a convenient and automated solution for removing seals from microplates. By eliminating manual labor and streamlining the de-sealing process, this instrument enhances laboratory efficiency and ensures the integrity of samples in microplate-based experiments.
 
 
-.. image:: /images/robots/peeler.jpeg
+.. image:: https://github.com/AD-SDL/RPL/blob/main/images/robots/peeler.jpeg
   :width: 400
 
 `Module Link <https://github.com/AD-SDL/brooks_xpeel_module.git>`_
