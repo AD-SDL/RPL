@@ -14,7 +14,9 @@ Here are some key features and characteristics of the Hudson PlateCrane robot:
 
 The Hudson PlateCrane offers researchers in life sciences, pharmaceuticals, and other scientific fields an efficient and reliable solution for automating plate handling tasks.
 
-`Module Link <https://github.com/AD-SDL/platecrane_module>`_
 
 .. image:: https://github.com/AD-SDL/RPL/blob/main/images/robots/platecrane_EX.jpeg
   :width: 400
+
+`Module Link <https://github.com/AD-SDL/platecrane_module.git>`_
+`Website Link <https://hudsonrobotics.com/microplate-handling-2/platecrane-ex/>`_
