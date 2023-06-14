@@ -18,3 +18,6 @@ Here are some key features and functionalities of the SOLO Liquid Handler:
 
 .. image:: https://github.com/AD-SDL/RPL/blob/main/images/robots/solo.jpeg
   :width: 400
+
+`Module Link <https://github.com/AD-SDL/hudson-liquidhandling>`_
+`Website Link <https://hudsonrobotics.com/products/liquid-handling/solo-liquid-handling/>`_
