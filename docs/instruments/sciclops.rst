@@ -15,7 +15,7 @@ Key features and capabilities of the SciClops Microplate Handler may include:
 - Safety Features: The SciClops Microplate Handler often incorporates safety features such as collision detection, sensor-based plate detection, and emergency stop buttons to ensure the protection of the instrument, samples, and personnel.
 
 
-.. image:: /images/robots/sciclops.jpeg
+.. image:: https://github.com/AD-SDL/RPL/blob/main/images/robots/sciclops.jpeg
   :width: 400
 
 `Module Link <https://github.com/AD-SDL/platecrane_module.git>`_

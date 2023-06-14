@@ -14,3 +14,7 @@ Here are some key features and functionalities of the SOLO Liquid Handler:
 - Integration and Compatibility: The system is designed to integrate with various laboratory instruments, such as plate readers, incubators, and shakers. This allows for seamless coordination of workflows and eliminates the need for manual sample transfer between instruments.
 - Modular Design: The SOLO Liquid Handler is often designed with a modular architecture, allowing users to customize and expand the system according to their specific needs. Additional modules can be added to enhance functionality, such as plate storage and retrieval systems.
 - Safety and Contamination Control: The system incorporates safety features to prevent cross-contamination between samples. It may include features such as disposable tips, UV sterilization, and liquid level sensing to ensure accurate and contamination-free liquid handling.
+
+
+.. image:: https://github.com/AD-SDL/RPL/blob/main/images/robots/solo.jpeg
+  :width: 400

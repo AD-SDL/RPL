@@ -14,5 +14,5 @@ Some key features and capabilities of the UR5e robot include:
 - Integration Capabilities: Universal Robots provides a wide range of accessories, grippers, and software options to enhance the capabilities and compatibility of the UR5e. It can also be integrated with external devices and sensors to create custom automation solutions.
 
 
-.. image:: /images/robots/ur5.jpeg
+.. image:: https://github.com/AD-SDL/RPL/blob/main/images/robots/ur5.jpeg
   :width: 400
