@@ -16,3 +16,7 @@ Some key features and capabilities of the UR5e robot include:
 
 .. image:: https://github.com/AD-SDL/RPL/blob/main/images/robots/ur5.jpeg
   :width: 400
+
+`Module Link <https://github.com/AD-SDL/henry_module.git>`_
+`Website Link <https://www.universal-robots.com>`_
+
