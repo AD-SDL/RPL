@@ -31,3 +31,6 @@ Specifications
 - Air Supply:	50-70 PSI @1-2 CFM
 - Max Vertical Clearance (Gripper to Base):	292mm
 - Min Vertical Clearance (gripper to Base):	30mm
+
+.. `Module Link <https://github.com/AD-SDL/henry_module.git>`_
+`Website Link <https://www.northrobotics.com/?page_id=1264>`_
