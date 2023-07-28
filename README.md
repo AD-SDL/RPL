@@ -1,4 +1,3 @@
-# AD-SDL Main repo
+# RPL Read-The-Docs
 
-## Read-The-Docs
-https://ad-sdl.readthedocs.io/
+https://rplab.readthedocs.io/

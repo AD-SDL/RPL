@@ -5,11 +5,11 @@ Projects
    :maxdepth: 1
    :caption: Contents:
    
-   APS
-   wei
+   WEI
    color_picker
-   PCR
    growth_curve
+   APS
+
 
 RPL
 ---------

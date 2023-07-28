@@ -16,21 +16,17 @@ The RPL (Rapid Prototyping Laboratory) is a space dedicated to testing new autom
    :maxdepth: 1
    :caption: Projects:
 
+   ../projects/WEI
    ../projects/color_picker
-   ../projects/PCR
  
-
-
-
 .. toctree::
    :maxdepth: 2
    :caption: Modules:
 
    ../instruments/pf400
-   ../instruments/hidex
    ../instruments/ur5e
    ../instruments/OT2
-   ../instruments/azenta_peeler
+   ../instruments/a4s_sealer
    ../instruments/brooks_xpeel
    ../instruments/camera
    ../instruments/hidex

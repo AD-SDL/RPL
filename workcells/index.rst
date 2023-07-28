@@ -8,7 +8,5 @@ Our current collaborations
 
    RPL
    BIO
-   241
-   CNM
 
 RPL
