@@ -12,8 +12,12 @@ Here are some key features and characteristics of the Opentrons OT-2 lab robot:
 - Integration with lab equipment: The OT-2 can be integrated with other lab equipment such as centrifuges, thermocyclers, and plate readers. This allows for seamless automation of complete experimental workflows.
 - Applications: The OT-2 is commonly used in various life science research areas, including genomics, proteomics, drug discovery, and synthetic biology. It can perform tasks such as PCR setup, serial dilutions, plate replication, and sample normalization.
 
-.. image:: https://github.com/AD-SDL/RPL/blob/main/images/robots/ot2.jpeg
+.. image:: /images/robots/ot2.jpeg
   :width: 400
 
-`Module Link <https://github.com/AD-SDL/ot2_module>`_
-`Website Link <https://opentrons.com/products/robots/ot-2/>`_
+
+.. list:: Important Links
+
+   * `GitHub Module Link <https://github.com/AD-SDL/ot2_module>`_
+   * `Instrument Specs <https://opentrons.com/products/robots/ot-2/>`_
+

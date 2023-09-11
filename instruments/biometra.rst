@@ -13,8 +13,11 @@ The main advantages of automated thermocycler robots include:
 - Time and labor savings: By automating repetitive tasks, automated thermocycler robots free up researchers' time and reduce the need for manual sample handling, allowing them to focus on other critical aspects of their work.
 
 
-.. image:: https://github.com/AD-SDL/RPL/blob/main/images/robots/biometra.jpeg
+.. image:: /images/robots/biometra.jpeg
   :width: 400
 
-`Module Link <https://github.com/AD-SDL/biometra_module.git>`_
-`Website Link <https://www.analytik-jena.com/products/life-science/pcr-qpcr-thermal-cycler/thermal-cycler-pcr/biometra-trobot-ii-series/>`_
+
+.. list:: Important Links
+
+   * `GitHub Module Link <https://github.com/AD-SDL/biometra_module.git>`_
+   * `Instrument Specs <https://www.analytik-jena.com/products/life-science/pcr-qpcr-thermal-cycler/thermal-cycler-pcr/biometra-trobot-ii-series/>`_
