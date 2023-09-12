@@ -16,8 +16,12 @@ Here are some key features and capabilities of the Hidex Sense Multi-Mode Microp
 The Hidex Sense Multi-Mode Microplate Reader is a valuable tool in modern laboratories, facilitating the quantitative analysis of various biological and chemical assays in microplates. 
 
 
-.. image:: https://github.com/AD-SDL/RPL/blob/main/images/robots/hidex.jpeg
+.. image:: /images/robots/hidex.jpeg
   :width: 400
 
-`Module Link <https://github.com/AD-SDL/hidex_module.git>`_
-`Website Link <https://hidex.com/products/hidex-sense/>`_
+
+.. list:: Important Links
+
+   * `GitHub Module Link <https://github.com/AD-SDL/hidex_module.git>`_
+   * `Instrument Specs <https://hidex.com/products/hidex-sense/>`_
+

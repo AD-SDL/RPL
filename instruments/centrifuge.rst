@@ -14,5 +14,8 @@ Some features and capabilities that can be found in automated centrifuges like t
 - Integration Capabilities: Depending on the design, the HiG 3 Centrifuge may offer integration capabilities with other laboratory automation systems. This integration could include compatibility with liquid handling systems, robotic arms, or laboratory information management systems (LIMS), allowing for seamless integration into automated workflows.
 
 
-.. `Module Link <https://github.com/AD-SDL/brooks_xpeel_module.git>`_
-`Website Link <https://github.com/AD-SDL/brooks_xpeel_module.git>`_
+.. list:: Important Links
+
+   * `Instrument Specs <https://bionexsolutions.com/hig-centrifuge/>`_
+
+

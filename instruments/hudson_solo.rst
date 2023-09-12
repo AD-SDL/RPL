@@ -16,8 +16,11 @@ Here are some key features and functionalities of the SOLO Liquid Handler:
 - Safety and Contamination Control: The system incorporates safety features to prevent cross-contamination between samples. It may include features such as disposable tips, UV sterilization, and liquid level sensing to ensure accurate and contamination-free liquid handling.
 
 
-.. image:: https://github.com/AD-SDL/RPL/blob/main/images/robots/solo.jpeg
+.. image:: /images/robots/solo.jpeg
   :width: 400
 
-`Module Link <https://github.com/AD-SDL/hudson-liquidhandling>`_
-`Website Link <https://hudsonrobotics.com/products/liquid-handling/solo-liquid-handling/>`_
+
+.. list:: Important Links
+
+   * `GitHub Module Link <https://github.com/AD-SDL/hudson-liquidhandling>`_
+   * `Instrument Specs <https://hudsonrobotics.com/products/liquid-handling/solo-liquid-handling/>`_

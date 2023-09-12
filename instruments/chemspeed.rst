@@ -15,5 +15,8 @@ While ChemSpeed offers a range of robotic solutions, one of their notable produc
 Safety features: ChemSpeed emphasizes safety in their robotic systems. The ChemSpeed robot typically incorporates features like fume hoods, inert gas handling capabilities, and advanced safety protocols to ensure a controlled and safe working environment for chemists and researchers.
 ChemSpeed robots have found applications in pharmaceutical research, agrochemical development, material science, and other industries where efficient synthesis and optimization of chemical compounds are critical. By automating repetitive tasks and providing high-throughput capabilities, the ChemSpeed robot accelerates the chemical discovery process and enables scientists to explore a wide range of compounds and reaction conditions efficiently.
 
-`Module Link <https://github.com/AD-SDL/chemspeed_module.git>`_
-`Website Link <https://www.chemspeed.com/example-solutions/swing-rp/>`_
+
+.. list:: Important Links
+
+   * `GitHub Module Link <https://github.com/AD-SDL/chemspeed_module.git>`_
+   * `Instrument Specs <https://www.chemspeed.com/example-solutions/swing-rp/>`_

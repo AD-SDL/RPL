@@ -1,4 +1,4 @@
-N9 Robtic Arm
+N9 Robotic Arm
 =============
 
 The N9 Robot Arm is a robotic manipulator developed by North Robotics, a company specializing in robotic automation solutions. While I don't have specific information on the N9 Robot Arm, I can provide you with a general overview of robot arms and their capabilities.
@@ -32,6 +32,9 @@ Specifications
 - Max Vertical Clearance (Gripper to Base):	292mm
 - Min Vertical Clearance (gripper to Base):	30mm
 
-.. `Module Link <https://github.com/AD-SDL/henry_module.git>`_
-`Website Link <https://www.northrobotics.com/?page_id=1264>`_
+
+.. list:: Important Links
+
+   * `Instrument Specs <https://www.northrobotics.com/?page_id=1264>`_
+
 
