@@ -9,13 +9,13 @@ Hudson Workcell in BIO
   :width: 400
 
 
-  .. toctree::
-   :maxdepth: 1
-   :caption: Modules:
+.. toctree::
+:maxdepth: 1
+:caption: Modules:
 
-   1. Liconic Incubator
-   2. ../instruments/hudson_solo
-   3. ../instruments/hudson_platecrane
-   4. ../instruments/brooks_xpeel
-   5. ../instruments/a4s_sealer
-   6. ../instruments/hidex
+1. Liconic Incubator
+2. ../instruments/hudson_solo
+3. ../instruments/hudson_platecrane
+4. ../instruments/brooks_xpeel
+5. ../instruments/a4s_sealer
+6. ../instruments/hidex
