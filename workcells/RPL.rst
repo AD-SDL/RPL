@@ -4,7 +4,7 @@ RPL
 
 The RPL (Rapid Prototyping Laboratory) is a space dedicated to testing new automation technologies and processes. It is located in building 240 of Argonne National Lab campus. 
 
-.. image:: https://github.com/AD-SDL/RPL/blob/main/images/workcells/updated_RPL.jpg
+.. image:: /images/workcells/RPL_numbered.jpg
   :width: 400
 
    
@@ -23,13 +23,15 @@ The RPL (Rapid Prototyping Laboratory) is a space dedicated to testing new autom
    :maxdepth: 2
    :caption: Modules:
 
-   ../instruments/pf400
-   ../instruments/ur5e
-   ../instruments/OT2
-   ../instruments/a4s_sealer
-   ../instruments/brooks_xpeel
-   ../instruments/camera
-   ../instruments/hidex
+   1. ../instruments/pf400
+   2. ../instruments/ur5e
+   3. ../instruments/OT2
+   4. ../instruments/a4s_sealer
+   5. ../instruments/brooks_xpeel
+   6. ../instruments/camera
+   7. ../instruments/hidex
+   8. ../instruments/biometra
+   9. ../instruments/sciclops
  
    
    
