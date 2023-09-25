@@ -4,17 +4,29 @@ Our Instruments
 .. toctree::
   :maxdepth: 2
 
-  a4s_sealer
-  biometra
-  brooks_xpeel
-  centrifuge
-  chemspeed
-  hidex
-  hudson_platecrane
-  hudson_solo
-  mir250
-  n9
-  OT2
-  pf400
-  sciclops
-  ur5e
+  Robotic Arms
+    pf400
+    hudson_platecrane
+    sciclops
+    ur5e
+
+  Automated Liquid Handlers 
+    OT2
+    hudson_solo
+
+  Synthesis Machines
+    chemspeed
+    n9
+
+  Data Collection
+    hidex
+
+  Mobile Robotics
+    mir250
+
+  Auxiliary Instruments
+    a4s_sealer
+    brooks_xpeel
+    biometra
+    centrifuge
+

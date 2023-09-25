@@ -1,40 +1,13 @@
 N9 Robotic Arm
 =============
 
-The N9 Robot Arm is a robotic manipulator developed by North Robotics, a company specializing in robotic automation solutions. While I don't have specific information on the N9 Robot Arm, I can provide you with a general overview of robot arms and their capabilities.
+The North Robotics N9 platform consists of a robotic manipulator arm connected to a modularly designed deck that can be customized to suit the needs of a particular experiment. The N9 is particularly useful in drug and materials discovery applications. 
 
-Robot arms, also known as robotic manipulators or robotic arms, are mechanical devices designed to mimic the movements of a human arm. They consist of multiple joints and links that enable them to perform various tasks in industrial, research, and other applications. Here are some key aspects and features typically associated with robot arms:
+.. image:: /images/robots/n9.jpg
+  :width: 400
 
-- Degrees of freedom: Robot arms have multiple degrees of freedom (DOF), which refer to the number of independent movements or axes the arm can perform. Each DOF corresponds to a specific joint that allows rotational or linear movement.
-- Payload capacity: The payload capacity of a robot arm refers to the maximum weight it can handle or manipulate. This capacity varies depending on the specific model and configuration of the arm. It is important to consider the payload capacity when selecting a robot arm for a particular application.
-- Reach and workspace: The reach of a robot arm defines its maximum distance from the base to the end-effector (the tool or device attached to the arm). The workspace refers to the three-dimensional area that the robot arm can access within its reach. The reach and workspace are important considerations to ensure the arm can perform tasks within the desired work area.
-- End-effectors and tooling: Robot arms are often equipped with interchangeable end-effectors or tooling that allow them to perform specific tasks. These could include grippers for grasping objects, suction cups for handling delicate items, welding torches for joining materials, or specialized sensors for inspection purposes.
-- Control system: Robot arms are typically controlled by a computerized control system. This control system provides the necessary instructions to the robot arm, allowing precise control of its movements, speed, and coordination with other devices or systems.
-- Programming: Robot arms can be programmed in different ways. This can include teaching the arm manually by physically guiding it through the desired motion, using graphical programming interfaces, or writing code using programming languages specifically designed for robot control, such as Robot Operating System (ROS).
-- Safety features: Safety is an important aspect of robot arm design. Depending on the application and industry, robot arms may incorporate safety features such as collision detection, emergency stop mechanisms, and protective barriers to ensure the well-being of operators and prevent accidents.
+Important Links:
 
-Specifications 
-
-- Module Number (Robot Arm): 200
-- Base Width:	814mm (32″)
-- Base Depth:	664mm (26″)
-- Height:	536mm (21″)
-- Weight (Robot Arm):	5.5 Kg
-- Weight (Base and Robot Arm):	35 Kg
-- Axis 0 Travel (Gripper):	+- Inf
-- Axis 1 Travel (Elbow):	+- 150 Deg
-- Axis 2 Travel (shoulder):	+- 120 Deg
-- Axis 3 Travel (Vertical):	262mm (10.3″)
-- Repeatability on all axis:	0.02mm
-- Drive:	Brushless Servo
-- Power Consumption:	150W (Typical)
-- Air Supply:	50-70 PSI @1-2 CFM
-- Max Vertical Clearance (Gripper to Base):	292mm
-- Min Vertical Clearance (gripper to Base):	30mm
-
-
-.. list:: Important Links
-
-   * `Instrument Specs <https://www.northrobotics.com/?page_id=1264>`_
+* `Instrument Specs <https://www.northrobotics.com/?page_id=1264>`_
 
 

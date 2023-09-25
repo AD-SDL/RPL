@@ -2,19 +2,13 @@ Mobile Industrial Robots (MiR) MiR250
 =====================================
 
 
-The Mobile Industrial Robots (MiR) MiR250 is a compact and agile autonomous mobile robot designed for industrial applications. It is part of MiR's fleet of collaborative robots that aim to streamline material transportation and logistics in various environments.
+The Mobile Industrial Robots (MiR) MiR250 is a compact and agile autonomous mobile robot designed for industrial applications. It is part of MiR's fleet of collaborative robots that aim to streamline material transportation and logistics in various environments. The MiR250 uses advanced sensors, cameras, and mapping technology to navigate autonomously and maneuver through dynamic environments while avoiding obstacles and ensuring safe operation. 
 
-Key features and capabilities of the MiR250 robot may include:
+.. image:: /images/robots/mir_base.jpg
+  :width: 400
 
-- Autonomous Navigation: The MiR250 robot utilizes advanced sensors, cameras, and mapping technology to navigate autonomously. It can effectively maneuver through dynamic environments, including warehouses, manufacturing floors, and logistics centers, while avoiding obstacles and ensuring safe operation.
-- Payload Capacity: The MiR250 has a payload capacity of up to 250 kilograms (550 pounds). This enables it to transport a wide range of materials, such as pallets, carts, and racks, contributing to the automation of material handling tasks.
-- Collaborative Operation: The MiR250 is designed to work collaboratively with human workers. It adheres to safety standards and features various sensors and safety mechanisms to prevent collisions and ensure the well-being of employees in shared workspaces.
-- User-Friendly Interface: The robot is typically operated through an intuitive user interface, which can be accessed via a computer or a mobile device. Users can program tasks, set up missions, and monitor the status of the robot using the interface.
-- Fleet Management Software: MiR offers a fleet management software system that allows users to control and coordinate multiple robots, including the MiR250, simultaneously. The software enables task scheduling, mapping, and real-time monitoring of the robots' activities.
-- Integration Capabilities: The MiR250 is designed to integrate with existing infrastructure and systems in industrial environments. It can interface with conveyors, elevators, and other equipment, making it adaptable to a variety of material handling workflows.
+Important Links:
 
-.. list:: Important Links
-
-   * `GitHub Module Link <https://github.com/AD-SDL/henry_module.git>`_
-   * `Instrument Specs <https://www.mobile-industrial-robots.com/solutions/robots/mir250/>`_
+* `GitHub Module Link <https://github.com/AD-SDL/henry_module.git>`_
+* `Instrument Specs <https://www.mobile-industrial-robots.com/solutions/robots/mir250/>`_
 
