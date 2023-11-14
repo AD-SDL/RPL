@@ -1,7 +1,7 @@
 Welcome to the Rapid Prototyping Laboratory
 ===========================================
 
-We work to prototype new technologies and workflows for further automating scientific experiments and for integrating AI into the experimental process
+We work to prototype new technologies and workflows for automating scientific experiments and for integrating AI into the experimental process
 
 
 .. toctree::
